@@ -15,7 +15,7 @@
 
 Задание 4
 Создайте свой кастомный дашборд.
-![4-1](https://github.com/SG-netology/9-2-Git/blob/main/4-1.png)
+![4-1](https://github.com/SG-netology/9-3-Git/blob/main/4-1.png)
 
 
 
